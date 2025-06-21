@@ -14,3 +14,6 @@
 - Python
 - Streamlit
 - Gemini 1.5 Flash (via `google.generativeai`)
+---
+## Contact
+- email : tripurateja4545@gmail.com
